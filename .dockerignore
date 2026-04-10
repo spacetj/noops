@@ -1,0 +1,9 @@
+.git
+.gitignore
+Dockerfile
+backups
+bin
+**/*.test
+**/*.out
+**/*.log
+**/*.tmp
