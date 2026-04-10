@@ -1,0 +1,21 @@
+# Generated binaries and build artifacts
+bin/
+*.out
+*.test
+
+# Local environment files and state
+.env
+.env.local
+.env.*
+.noops_state.json
+
+# Local backups and exports
+backups/
+exports/
+
+# Editor and tooling noise
+.DS_Store
+*.log
+coverage/
+.gocache/
+.venv/
